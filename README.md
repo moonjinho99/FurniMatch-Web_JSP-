@@ -16,3 +16,6 @@ FurniMatch(JSP서버)
 
 ➡ Socket을 이용한 채팅 서버를 담당함
 
+## 📖 FurniMatch의 ERD
+
+![image](https://github.com/moonjinho99/FurniMatch-Web_JSP-/assets/117807455/4982d4b0-e73e-4bb0-8750-fcf2936e2947)
