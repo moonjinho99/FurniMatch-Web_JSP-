@@ -1,7 +1,7 @@
 # FurniMatch-Web_JSP-
 FurniMatch(JSP서버)
 
-📢 앱 repository를 먼저 보고 오시는걸 추천 드립니다. [FurniMatch_Android](https://github.com/moonjinho99/FurniMatch_Android)
+## 📢 앱 repository를 먼저 보고 오시는걸 추천 드립니다. [FurniMatch_Android](https://github.com/moonjinho99/FurniMatch_Android)##
 
 ## 📺 개발환경
 - <img src="https://img.shields.io/badge/eclipse-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
