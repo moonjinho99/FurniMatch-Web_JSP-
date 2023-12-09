@@ -16,6 +16,13 @@ FurniMatch(JSP서버)
 
 ➡ Socket을 이용한 채팅 서버를 담당함
 
+## 💡 이번 프로젝트를 통해 배운점
+
+➡ CRUD 작업을 진행하며 SQL문을 사용하여 DB 작업을 하는 실력이 향상되었음
+
+➡ 서버를 직접 구축해보며 서버에서 하는 작업의 이해도가 높아짐
+
+
 ## 📖 FurniMatch의 ERD
 
 ![image](https://github.com/moonjinho99/FurniMatch-Web_JSP-/assets/117807455/4982d4b0-e73e-4bb0-8750-fcf2936e2947)
