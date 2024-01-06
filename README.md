@@ -7,7 +7,7 @@ FurniMatch(JSP서버)
 - <img src="https://img.shields.io/badge/IDE-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 - <img src="https://img.shields.io/badge/Language-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/18-515151?style=for-the-badge">
 - <img src="https://img.shields.io/badge/Database-%23121011?style=for-the-badge"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
+<br/><br/>
 <hr>
 
 ## ⭐ 주요기능
@@ -16,12 +16,16 @@ FurniMatch(JSP서버)
 
 ➡ Socket을 이용한 채팅 서버를 담당함
 
+<br/><br/>
+<hr>
+
 ## 💡 이번 프로젝트를 통해 배운점
 
 ➡ CRUD 작업을 진행하며 SQL문을 사용하여 DB 작업을 하는 실력이 향상되었음
 
 ➡ 서버를 직접 구축해보며 서버에서 하는 작업의 이해도가 높아짐
-
+<br/><br/>
+<hr>
 
 ## 📖 FurniMatch의 ERD
 
